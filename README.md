@@ -3,6 +3,12 @@
 [French] Projet de traitement d'image interactif  
 [English] Interactive Image Processing Project  
 
+![Scilab](https://img.shields.io/badge/Scilab-Image_Processing-blue)
+![Image Processing](https://img.shields.io/badge/Processing-Filters-green)
+![GUI](https://img.shields.io/badge/GUI-Interactive-orange)
+![Mathematics](https://img.shields.io/badge/Mathematics-Signal_Processing-red)
+![Status](https://img.shields.io/badge/Status-Complete-success)
+
 <div align="center">
   <img width="650" height="300" alt="image" src="https://github.com/user-attachments/assets/e650c748-edb7-4b8f-a3f1-7dc0a300899a">
 </div>
